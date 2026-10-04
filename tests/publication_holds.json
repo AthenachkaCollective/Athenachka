@@ -1,0 +1,17 @@
+{
+  "status": "PUBLICATION_REVIEW_HOLD",
+  "base_commit": "e97663e81f7c464a7a53383c796cc09226776422",
+  "holds": [
+    {
+      "file": "athenasglobalplan.html",
+      "unresolved_link": "downloads/Athena_Plan_Healing_the_Planet.pdf",
+      "original_git_blob": "4270762800197a77e36d7215c8f2056b8c3830bc"
+    },
+    {
+      "file": "avatarandgenius.html",
+      "unresolved_link": "downloads/The_Avatar_and_the_Great_Genius.pdf",
+      "original_git_blob": "cf7e1c7f0f2676cbd2325248a5fe049d33c744d0"
+    }
+  ],
+  "reason": "Automatic approval review rejected changes to these documents; original public files remain unchanged."
+}
